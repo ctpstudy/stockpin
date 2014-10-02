@@ -4,5 +4,5 @@
  */
 
 exports.index = function(req, res){
-  res.render('index', { title: '支点起航工作室' });
+  res.render('index', { title: '支点启航工作室' });
 };
