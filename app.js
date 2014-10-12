@@ -28,6 +28,11 @@ app.configure('development', function(){
 });
 
 app.get('/', routes.index);
+app.get('/index', routes.index);
+app.get('/nr', routes.nr);
+app.get('/contact', routes.contact);
+app.get('/aboutus', routes.aboutus);
+app.get('/msgBoard', routes.msgBoard);
 app.get('/users', user.list);
 
 http.createServer(app).listen(app.get('port'), function(){
