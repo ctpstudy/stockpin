@@ -4,14 +4,14 @@
     <list default="true" id="3db73db5-e4b2-45f8-8025-c8b50e87d948" name="Default" comment="" />
     <ignored path="stockpin.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/index.ejs" changelist="3db73db5-e4b2-45f8-8025-c8b50e87d948" time="1413123650847" ignored="false" />
+    <file path="/index.ejs" changelist="3db73db5-e4b2-45f8-8025-c8b50e87d948" time="1421243271659" ignored="false" />
     <file path="/app.js" changelist="3db73db5-e4b2-45f8-8025-c8b50e87d948" time="1413123920108" ignored="false" />
     <file path="/msgBoard.ejs" changelist="3db73db5-e4b2-45f8-8025-c8b50e87d948" time="1413124432284" ignored="false" />
     <file path="/492.min.css" changelist="3db73db5-e4b2-45f8-8025-c8b50e87d948" time="1413123018930" ignored="false" />
     <file path="/nr.js" changelist="3db73db5-e4b2-45f8-8025-c8b50e87d948" time="1413123539970" ignored="false" />
     <file path="/index.js" changelist="3db73db5-e4b2-45f8-8025-c8b50e87d948" time="1413124065035" ignored="false" />
-    <file path="/aboutus.ejs" changelist="3db73db5-e4b2-45f8-8025-c8b50e87d948" time="1413124229099" ignored="false" />
-    <file path="/contact.ejs" changelist="3db73db5-e4b2-45f8-8025-c8b50e87d948" time="1413124291058" ignored="false" />
+    <file path="/aboutus.ejs" changelist="3db73db5-e4b2-45f8-8025-c8b50e87d948" time="1421243925620" ignored="false" />
+    <file path="/contact.ejs" changelist="3db73db5-e4b2-45f8-8025-c8b50e87d948" time="1421244030748" ignored="false" />
     <file path="/nr.ejs" changelist="3db73db5-e4b2-45f8-8025-c8b50e87d948" time="1413124370776" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,10 +32,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/routes/index.js">
+      <file leaf-file-name="index.ejs" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/views/index.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="2" selection-start="117" selection-end="117" vertical-scroll-proportion="0.0">
+            <state line="1215" column="100" selection-start="52504" selection-end="55989" vertical-scroll-proportion="-4.607143">
               <folding />
             </state>
           </provider>
@@ -44,34 +44,16 @@
       <file leaf-file-name="aboutus.ejs" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/aboutus.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="137" column="205" selection-start="4878" selection-end="4878" vertical-scroll-proportion="-6.8679247">
+            <state line="256" column="1127" selection-start="9680" selection-end="9695" vertical-scroll-proportion="-7.107143">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact.ejs" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="contact.ejs" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/contact.ejs">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="127" column="72" selection-start="4967" selection-end="4967" vertical-scroll-proportion="-4.716981">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="msgBoard.ejs" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/views/msgBoard.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="123" column="35" selection-start="4324" selection-end="4325" vertical-scroll-proportion="0.18773946">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="nr.ejs" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/views/nr.ejs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="139" column="80" selection-start="5660" selection-end="5660" vertical-scroll-proportion="-13.214286">
+            <state line="240" column="50" selection-start="8429" selection-end="8429" vertical-scroll-proportion="0.07854406">
               <folding />
             </state>
           </provider>
@@ -96,13 +78,13 @@
         <option value="$PROJECT_DIR$/routes/msgBoard.js" />
         <option value="$PROJECT_DIR$/routes/contact.js" />
         <option value="$PROJECT_DIR$/routes/aboutus.js" />
-        <option value="$PROJECT_DIR$/views/index.ejs" />
         <option value="$PROJECT_DIR$/routes/index.js" />
         <option value="$PROJECT_DIR$/app.js" />
-        <option value="$PROJECT_DIR$/views/aboutus.ejs" />
-        <option value="$PROJECT_DIR$/views/contact.ejs" />
         <option value="$PROJECT_DIR$/views/nr.ejs" />
         <option value="$PROJECT_DIR$/views/msgBoard.ejs" />
+        <option value="$PROJECT_DIR$/views/index.ejs" />
+        <option value="$PROJECT_DIR$/views/aboutus.ejs" />
+        <option value="$PROJECT_DIR$/views/contact.ejs" />
       </list>
     </option>
   </component>
@@ -138,7 +120,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -216,31 +197,10 @@
               <option name="myItemId" value="public" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="image" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stockpin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stockpin" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -398,86 +358,88 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/views/aboutus.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="137" column="205" selection-start="4878" selection-end="4878" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/contact.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="127" column="72" selection-start="4967" selection-end="4967" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/msgBoard.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="129" column="5" selection-start="4752" selection-end="4752" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/nr.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="139" column="80" selection-start="5660" selection-end="5660" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/routes/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="35" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="6" column="35" selection-start="98" selection-end="98" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/js/2052.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="45" selection-start="45" selection-end="45" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="45" selection-start="45" selection-end="45" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/css/492.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="1" selection-start="94" selection-end="94" vertical-scroll-proportion="0.1687389">
-          <folding />
-        </state>
+        <state line="5" column="1" selection-start="94" selection-end="94" vertical-scroll-proportion="0.1687389" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/public/css/base.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/user.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="38" selection-start="104" selection-end="104" vertical-scroll-proportion="0.19387755">
-          <folding />
-        </state>
+        <state line="6" column="38" selection-start="104" selection-end="104" vertical-scroll-proportion="0.19387755" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="27" selection-start="689" selection-end="689" vertical-scroll-proportion="0.9786856">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/index.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="769" column="68" selection-start="21639" selection-end="21639" vertical-scroll-proportion="0.27787933">
-          <folding />
-        </state>
+        <state line="29" column="27" selection-start="689" selection-end="689" vertical-scroll-proportion="0.9786856" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="2" selection-start="117" selection-end="117" vertical-scroll-proportion="0.0">
+        <state line="7" column="2" selection-start="117" selection-end="117" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/nr.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="139" column="80" selection-start="5660" selection-end="5660" vertical-scroll-proportion="0.034734916" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/msgBoard.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="137" column="5" selection-start="5222" selection-end="5222" vertical-scroll-proportion="0.31261426" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/views/index.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1215" column="100" selection-start="52504" selection-end="55989" vertical-scroll-proportion="-4.607143">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/aboutus.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="137" column="205" selection-start="4878" selection-end="4878" vertical-scroll-proportion="-6.8679247">
+        <state line="256" column="1127" selection-start="9680" selection-end="9695" vertical-scroll-proportion="-7.107143">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/contact.ejs">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="127" column="72" selection-start="4967" selection-end="4967" vertical-scroll-proportion="-4.716981">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/nr.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="139" column="80" selection-start="5660" selection-end="5660" vertical-scroll-proportion="-13.214286">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/views/msgBoard.ejs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="123" column="35" selection-start="4324" selection-end="4325" vertical-scroll-proportion="0.18773946">
+        <state line="240" column="50" selection-start="8429" selection-end="8429" vertical-scroll-proportion="0.07854406">
           <folding />
         </state>
       </provider>
